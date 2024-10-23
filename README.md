@@ -1,1 +1,1 @@
-# transport-management-system
+This is a transport management system which is used to input details like fare, name,gender ,age , destination ,boarding point of passengers travelling through different modes of transport all the data is saved to a csv file the program offers multiple functionalities such as adding details and removing them or clearing the whole csv file.
